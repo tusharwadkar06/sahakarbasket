@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FaCloudUploadAlt } from 'react-icons/fa';
-
+console.log('AddNewMerchant.jsx loaded');
 const initialFormData = {
   businessDetails: {
     businessName: '',
