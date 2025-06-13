@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  font: poppins, sans-serif;
+  /* background: red; */
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .App-logo {
